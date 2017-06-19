@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\UIManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Decay.cs" Line="23" Column="69" />
+      <File FileName="Assets\Scripts\ClickPow.cs" Line="24" Column="84" />
+      <File FileName="Assets\Scripts\MoveInRdmDir.cs" Line="19" Column="46" />
+      <File FileName="Assets\Scripts\HitEffectConstructor.cs" Line="27" Column="22" />
+      <File FileName="Assets\Scripts\DelegateExample.cs" Line="25" Column="31" />
+      <File FileName="Assets\Scripts\Events.cs" Line="24" Column="4" />
+      <File FileName="Assets\Scripts\Listener.cs" Line="15" Column="1" />
+      <File FileName="Assets\Scripts\OurButtonHandler.cs" Line="19" Column="51" />
+      <File FileName="Assets\Scripts\EventTriggerMod.cs" Line="7" Column="82" />
+      <File FileName="Assets\Scripts\MyEventHandlers.cs" Line="7" Column="105" />
+      <File FileName="Assets\Scripts\UIManager.cs" Line="57" Column="42" />
+      <File FileName="Assets\Scripts\SpriteBehavior.cs" Line="16" Column="1" />
+      <File FileName="Assets\Scripts\InWorldCanvasScaler.cs" Line="12" Column="28" />
+      <File FileName="Assets\Scripts\MenuItem.cs" Line="80" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
